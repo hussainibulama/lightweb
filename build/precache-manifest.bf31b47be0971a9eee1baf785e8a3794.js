@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55e614db688c029f3f6cfb3cf687e9fb",
+    "revision": "fa9898bcbe04e4c6252be53a1ff0fa67",
     "url": "/index.html"
   },
   {
-    "revision": "afd133ee7c8215dd3a16",
+    "revision": "03b55d81967469aef8f5",
     "url": "/static/css/2.a3ae93c4.chunk.css"
   },
   {
-    "revision": "2d24c4269bd07c5ea884",
+    "revision": "464274ed977e0a0d5584",
     "url": "/static/css/main.56430868.chunk.css"
   },
   {
-    "revision": "afd133ee7c8215dd3a16",
-    "url": "/static/js/2.bc3cab59.chunk.js"
+    "revision": "03b55d81967469aef8f5",
+    "url": "/static/js/2.be0d3f17.chunk.js"
   },
   {
     "revision": "783c8bc594f4a689124f93ade83f5fbb",
-    "url": "/static/js/2.bc3cab59.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.be0d3f17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d24c4269bd07c5ea884",
-    "url": "/static/js/main.366bb849.chunk.js"
+    "revision": "464274ed977e0a0d5584",
+    "url": "/static/js/main.706393b3.chunk.js"
   },
   {
     "revision": "c2f98a5c387da539a513",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ceo.45cfaa3f.JPG"
   },
   {
+    "revision": "5f7a45e5f856bd5c712a9ae39f8912c2",
+    "url": "/static/media/cio.5f7a45e5.PNG"
+  },
+  {
     "revision": "361a5256275689af267d6f122c3bad4c",
     "url": "/static/media/consultancy.361a5256.jpg"
   },
@@ -80,16 +84,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contact-bg.dd861595.png"
   },
   {
-    "revision": "cffcdb61df24b4a9da4578f8ed015cee",
-    "url": "/static/media/coo.cffcdb61.PNG"
+    "revision": "b490a17093e863ff0ad83b568b9a2cfb",
+    "url": "/static/media/coo.b490a170.PNG"
   },
   {
-    "revision": "14702e895ad35b14635ae43dabbf0410",
-    "url": "/static/media/cto.14702e89.JPG"
+    "revision": "1f327a979d56b23b08578621762e0aa8",
+    "url": "/static/media/cto.1f327a97.PNG"
   },
   {
     "revision": "78810164d0414816c183e44c8501202a",
     "url": "/static/media/development.78810164.jpg"
+  },
+  {
+    "revision": "fc6d1dafb4d8c891e31854075ec43112",
+    "url": "/static/media/f2.fc6d1daf.PNG"
+  },
+  {
+    "revision": "f35589fb95a8d0281e158a0a11c3a323",
+    "url": "/static/media/f3.f35589fb.PNG"
   },
   {
     "revision": "003231a1f009db089ab16093ce59e4d2",

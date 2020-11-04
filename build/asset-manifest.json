@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.56430868.chunk.css",
-    "main.js": "/static/js/main.366bb849.chunk.js",
-    "main.js.map": "/static/js/main.366bb849.chunk.js.map",
+    "main.js": "/static/js/main.706393b3.chunk.js",
+    "main.js.map": "/static/js/main.706393b3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5e682c5b.js",
     "runtime-main.js.map": "/static/js/runtime-main.5e682c5b.js.map",
     "static/css/2.a3ae93c4.chunk.css": "/static/css/2.a3ae93c4.chunk.css",
-    "static/js/2.bc3cab59.chunk.js": "/static/js/2.bc3cab59.chunk.js",
-    "static/js/2.bc3cab59.chunk.js.map": "/static/js/2.bc3cab59.chunk.js.map",
+    "static/js/2.be0d3f17.chunk.js": "/static/js/2.be0d3f17.chunk.js",
+    "static/js/2.be0d3f17.chunk.js.map": "/static/js/2.be0d3f17.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.95f0a37cf3b5cbb0aaeba7a21e9d6d46.js": "/precache-manifest.95f0a37cf3b5cbb0aaeba7a21e9d6d46.js",
+    "precache-manifest.bf31b47be0971a9eee1baf785e8a3794.js": "/precache-manifest.bf31b47be0971a9eee1baf785e8a3794.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a3ae93c4.chunk.css.map": "/static/css/2.a3ae93c4.chunk.css.map",
     "static/css/main.56430868.chunk.css.map": "/static/css/main.56430868.chunk.css.map",
-    "static/js/2.bc3cab59.chunk.js.LICENSE.txt": "/static/js/2.bc3cab59.chunk.js.LICENSE.txt",
+    "static/js/2.be0d3f17.chunk.js.LICENSE.txt": "/static/js/2.be0d3f17.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
     "static/media/App.css": "/static/media/contact-bg.dd861595.png",
     "static/media/background.png": "/static/media/background.dda2961f.png",
@@ -23,10 +23,13 @@
     "static/media/cartoon7.png": "/static/media/cartoon7.d34bd63f.png",
     "static/media/case1.png": "/static/media/case1.87fb0609.png",
     "static/media/ceo.JPG": "/static/media/ceo.45cfaa3f.JPG",
+    "static/media/cio.PNG": "/static/media/cio.5f7a45e5.PNG",
     "static/media/consultancy.jpg": "/static/media/consultancy.361a5256.jpg",
-    "static/media/coo.PNG": "/static/media/coo.cffcdb61.PNG",
-    "static/media/cto.JPG": "/static/media/cto.14702e89.JPG",
+    "static/media/coo.PNG": "/static/media/coo.b490a170.PNG",
+    "static/media/cto.PNG": "/static/media/cto.1f327a97.PNG",
     "static/media/development.jpg": "/static/media/development.78810164.jpg",
+    "static/media/f2.PNG": "/static/media/f2.fc6d1daf.PNG",
+    "static/media/f3.PNG": "/static/media/f3.f35589fb.PNG",
     "static/media/all.min.css": "/static/media/fa-solid-900.8e39d5d5.svg",
     "static/media/hr.JPG": "/static/media/hr.98b95d1e.JPG",
     "static/media/lightlogo.png": "/static/media/lightlogo.4a9f8941.png",
@@ -36,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.5e682c5b.js",
     "static/css/2.a3ae93c4.chunk.css",
-    "static/js/2.bc3cab59.chunk.js",
+    "static/js/2.be0d3f17.chunk.js",
     "static/css/main.56430868.chunk.css",
-    "static/js/main.366bb849.chunk.js"
+    "static/js/main.706393b3.chunk.js"
   ]
 }
